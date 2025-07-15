@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace WebAPI_SistemaSuscripcion.Controllers
 {
+    //Controlador por default
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
